@@ -20,7 +20,7 @@ Repositório usado para armazenar o Desafio de  **Regressão Linear** da formaç
 - Análise de gráficos
 - Regressão Linear
 
-![Dashboard BI](https://github.com/GTBelini22/prj_analise_dados_Wallmart/blob/main/assets/Gr%C3%A1fico%20wallmart.png)
+![Dashboard BI](https://github.com/GTBelini22/DataChalleng_Usa_housing_Regressao_linear/blob/main/assets/Analise%20de%20preco.png)
 
 # Tecnologias utilizadas / Bibliotecas
 - Pandas
